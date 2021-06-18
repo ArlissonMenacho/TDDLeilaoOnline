@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SadF6ccHXDaLzLBsvsx00MOQK8A4Jv7zGtuOWf2CfUkkY6f+PaMls6OyVnGsXdmp0sXqBrDPyl9i/YosVIwz4w==",
+  "dgSpecHash": "uSMOOKHUUl9NiLmGqgHIWPQD0d4MlCu8Ps3WA4XjhJMHUkmuHM4U41wtHEiUKf9GNu+VtEGfeT5Zxs/JS0SWhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\01629287261\\source\\repos\\Alura.LeilaoOnline.Tests\\Alura.LeilaoOnline.Tests.csproj",
+  "projectFilePath": "C:\\Users\\01629287261\\Documents\\Projetos\\TDDLeilaoOnline\\Alura.LeilaoOnline.Tests\\Alura.LeilaoOnline.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\01629287261\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\01629287261\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\01629287261\\source\\repos\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {}
+    "C:\\Users\\01629287261\\Documents\\Projetos\\TDDLeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\01629287261\\source\\repos\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
+    "C:\\Users\\01629287261\\Documents\\Projetos\\TDDLeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\01629287261\\source\\repos\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
+        "projectUniqueName": "C:\\Users\\01629287261\\Documents\\Projetos\\TDDLeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
         "projectName": "Alura.LeilaoOnline.Core",
-        "projectPath": "C:\\Users\\01629287261\\source\\repos\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
+        "projectPath": "C:\\Users\\01629287261\\Documents\\Projetos\\TDDLeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
         "packagesPath": "C:\\Users\\01629287261\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\01629287261\\source\\repos\\Alura.LeilaoOnline.Core\\obj\\",
+        "outputPath": "C:\\Users\\01629287261\\Documents\\Projetos\\TDDLeilaoOnline\\Alura.LeilaoOnline.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\01629287261\\AppData\\Roaming\\NuGet\\NuGet.Config",

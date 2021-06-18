@@ -5627,11 +5627,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\01629287261\\source\\repos\\Alura.LeilaoOnline.Tests\\Alura.LeilaoOnline.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\01629287261\\Documents\\Projetos\\TDDLeilaoOnline\\Alura.LeilaoOnline.Tests\\Alura.LeilaoOnline.Tests.csproj",
       "projectName": "Alura.LeilaoOnline.Tests",
-      "projectPath": "C:\\Users\\01629287261\\source\\repos\\Alura.LeilaoOnline.Tests\\Alura.LeilaoOnline.Tests.csproj",
+      "projectPath": "C:\\Users\\01629287261\\Documents\\Projetos\\TDDLeilaoOnline\\Alura.LeilaoOnline.Tests\\Alura.LeilaoOnline.Tests.csproj",
       "packagesPath": "C:\\Users\\01629287261\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\01629287261\\source\\repos\\Alura.LeilaoOnline.Tests\\obj\\",
+      "outputPath": "C:\\Users\\01629287261\\Documents\\Projetos\\TDDLeilaoOnline\\Alura.LeilaoOnline.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\01629287261\\AppData\\Roaming\\NuGet\\NuGet.Config",

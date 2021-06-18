@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\01629287261\\source\\repos\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\01629287261\\Documents\\Projetos\\TDDLeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj",
       "projectName": "Alura.LeilaoOnline.ConsoleApp",
-      "projectPath": "C:\\Users\\01629287261\\source\\repos\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\01629287261\\Documents\\Projetos\\TDDLeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\01629287261\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\01629287261\\source\\repos\\Alura.LeilaoOnline.ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\01629287261\\Documents\\Projetos\\TDDLeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\01629287261\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\01629287261\\source\\repos\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
-              "projectPath": "C:\\Users\\01629287261\\source\\repos\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj"
+            "C:\\Users\\01629287261\\Documents\\Projetos\\TDDLeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj": {
+              "projectPath": "C:\\Users\\01629287261\\Documents\\Projetos\\TDDLeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj"
             }
           }
         }
